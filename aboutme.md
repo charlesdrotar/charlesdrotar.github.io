@@ -1,16 +1,34 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: ?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi my name is Charles Drotar! 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+![Work](img/work.png) Work
+==========================
 
-What else do you need?
+I am currently working on [D365 Connected Store](https://dynamics.microsoft.com/en-us/ai/connected-store/) at Microsoft, which brings IoT-based insights to brick-and-mortar stores.
 
-### my history
+![Microsoft](img/microsoft.png) Software Engineer at **Microsoft**
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+![CapitalOne](img/capitalone.png) Data Engineer at **Capital One** 
+
+![AT&T](img/att.png) Big Data Engineer at **AT&T**
+
+![Raytheon](img/raytheon.png) Algorithms / Software Engineer at **Raytheon IIS**
+
+![School](img/school.png) Education
+===================================
+
+I am currently pursuing my masters in Computer Science at University of Washington. The program is [ranked #6 nationally by U.S. News](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings).
+
+- **University of Washington** MS in CS (expected 2022)
+- **University of North Texas** BS in EE
+
+
+## Personal History
+
+I live with my wife, daughter, and opinionated Corgi in Redmond, WA.
+
