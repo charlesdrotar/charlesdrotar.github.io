@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: How I got to where I am today.
+bigimg: /img/bigimg.png
 ---
 
 
