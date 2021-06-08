@@ -6,19 +6,21 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Charles Drotar
 
 # Your name to show in the footer
-author: Some Person
+author: Charles Drotar
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Patents:
+    - Fuel Inefficiency Detection: "https://patents.google.com/patent/US20170158203A1/en/"
+  Publications:
+    - Multi-Domain Communcation Network: "https://arc.aiaa.org/doi/abs/10.2514/6.2013-5056"
+  Github: "http://github.com/charlesdrotar"
+  LinkedIn: "http://linkedin.com/in/charlesdrotar"
 
 # --- Logo --- #
 
