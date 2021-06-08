@@ -1,23 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: How I got to where I am today.
-bigimg: /assets/img/bigimg.png
+subtitle: Why you'd want to go on a date with me
 ---
 
+My name is Inigo Montoya. I have the following qualities:
 
-![Work](assets/img/microsoft.png) Work
+- I rock a great mustache
+- I'm extremely loyal to my family
 
-I am currently a software engineer at **Microsoft** working on an *Azure IoT SaaS solution* for brick-and-mortar stores. 
-Prior to Microsoft, I worked at **Capital One** as a data engineer where I helped automate data science workflows in *AWS* using *Spark, Python, R, Airflow, Ansible*, and various other analytical tools. 
-Before Capital One, I worked at **AT&T** as a big data engineer. It was here that I learned to become proficient with *Hive, Pig,* and the *Hadoop* ecosystem in general. 
-It was just prior this where my career started as an algorithms and software engineer for **Raytheon Intelligence, Information, and Services (IIS)**. It was there I obtained a *top secret clearance*, learned about *natural language processing (NLP)*, and *swarm intelligence* paradigms.
+What else do you need?
 
-![School](assets/img/university_of_washington.png) Education
+### My story
 
-I am currently pursuing a MS in CS at the **University of Washington**, and am expected to graduate in 2022. I Also have a BS in EE from the **University of North Texas**.
-
-
-## Personal History
-
-Redmond, Washington is home. My work and studies have taken me from the Dallas Fort-Worth Metroplex to Redmond, Washington. My travels have taken me to Kosovo, Turkey, Japan, Australia, and the Dominican Republic.
+To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
