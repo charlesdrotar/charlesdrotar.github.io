@@ -21,12 +21,9 @@ navbar-links:
     - CSEP546 -  Machine Learning: "UW_MachineLearning"
     - CSEP590 -  Incentives in Computer Science (Game Theory): "UW_IncentivesInComputerScience(GameTheory)"
     - CSEP527 -  Computational Biology: "UW_ComputationalBiology"
-  Patents:
-    - Fuel Inefficiency Detection: "https://patents.google.com/patent/US20170158203A1/en/"
-  Publications:
-    - Multi-Domain Communcation Network: "https://arc.aiaa.org/doi/abs/10.2514/6.2013-5056"
-  Github: "http://github.com/charlesdrotar"
-  LinkedIn: "http://linkedin.com/in/charlesdrotar"
+  Patents / Publications:
+    - <Patent> Fuel Inefficiency Detection: "https://patents.google.com/patent/US20170158203A1/en/"
+    - <Publication> Multi-Domain Communcation Network: "https://arc.aiaa.org/doi/abs/10.2514/6.2013-5056"
 
 # --- Logo --- #
 
