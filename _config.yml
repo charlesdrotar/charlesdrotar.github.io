@@ -15,6 +15,12 @@ author: Charles Drotar
 
 navbar-links:
   About Me: "aboutme"
+  Coursework:
+    - CSEP590 - Enterprise Chatbots: "UW_EnterpriseChatbots"
+    - CSEP517 - Natural Language Processing: "UW_NaturalLanguageProcessing"
+    - CSEP546 -  Machine Learning: "UW_MachineLearning"
+    - CSEP590 -  Incentives in Computer Science (Game Theory): "UW_IncentivesInComputerScience(GameTheory)"
+    - CSEP527 -  Computational Biology: "UW_ComputationalBiology"
   Patents:
     - Fuel Inefficiency Detection: "https://patents.google.com/patent/US20170158203A1/en/"
   Publications:
