@@ -8,6 +8,9 @@ share-img: /assets/img/path.jpg
 tags: [UW, Computational_Biology]
 ---
 
+# Test Mathjax
+
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
 # Colloquia 1: Title
 
