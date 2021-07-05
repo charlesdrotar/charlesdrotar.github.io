@@ -10,7 +10,9 @@ tags: [UW, Computational_Biology]
 
 # Test Mathjax
 
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+Docs for Mathjax [here](http://docs.mathjax.org/en/latest/).
+
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
 
 # Colloquia 1: Title
 
