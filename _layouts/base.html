@@ -26,6 +26,10 @@ common-js:
 
 <body>
 
+  <script>
+    if (window.location.href.match("http://www.charlesdrotar.com")) window.location.protocol='https:'
+  </script>
+
   {% include gtm_body.html %}
 
   {% include nav.html %}
