@@ -2,6 +2,10 @@
 layout: page
 ---
 
+<script>
+ if (window.location.href.match("http://www.charlesdrotar.com")) window.location.protocol='https:'
+</script>
+
 {{ content }}
 
 {% assign posts = paginator.posts | default: site.posts %}
