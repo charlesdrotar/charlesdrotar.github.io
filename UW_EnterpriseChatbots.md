@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home_UW_EnterpriseChatbots
 title: Enterprise Chatbots
 subtitle: Catalog of Coursework
 bigimg: /assets/img/bigimg.png
@@ -7,7 +7,7 @@ bigimg: /assets/img/bigimg.png
 
 # Course
 
-Descriptions for courses come from https://www.cs.washington.edu/academics/pmp/course-info/current.
+Descriptions for courses come from [here](https://www.cs.washington.edu/academics/pmp/course-info/current).
 
 ## Description
 Theoretical and practical aspects of building chatbots for enterprises. Topics will include understanding natural language queries, extracting user intent, enterprise knowledge building from unstructured and semi structured content, querying databases, personalization, and dialog management. Prerequisites: none, but Natural Language Processing or Machine Learning are recommended.
