@@ -12,7 +12,7 @@ layout: page
     This `if` condition can be used to only show a subset of posts.
     In this way, we can have different home pages that subset blog posts.
     -->
-    {% if post.tags contains 'Enterprise_Chatbots' %}
+    {% if post.categories contains 'enterprisechatbots' %}
      <article class="post-preview">
 
       {%- capture thumbnail -%}
