@@ -17,3 +17,8 @@ bigimg: /assets/img/bigimg.png
 
 ### Code for all HWs for course
 - [HW1](https://github.com/charlesdrotar/UW-CSE590B-SP21-Enterprise-Chatbots/tree/master/HW1)
+- [HW2](https://github.com/charlesdrotar/UW-CSE590B-SP21-Enterprise-Chatbots/tree/master/HW2)
+- [HW3](https://github.com/charlesdrotar/UW-CSE590B-SP21-Enterprise-Chatbots/tree/master/HW3)
+- [HW4](https://github.com/charlesdrotar/UW-CSE590B-SP21-Enterprise-Chatbots/tree/master/HW4)
+- [HW5](https://github.com/charlesdrotar/UW-CSE590B-SP21-Enterprise-Chatbots/tree/master/HW5)
+- [HW6](https://github.com/charlesdrotar/UW-CSE590B-SP21-Enterprise-Chatbots/tree/master/HW6)
