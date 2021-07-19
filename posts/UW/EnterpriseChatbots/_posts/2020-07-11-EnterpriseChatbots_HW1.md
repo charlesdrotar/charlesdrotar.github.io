@@ -5,7 +5,7 @@ subtitle: Hello World chatbot
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [UW, Enterprise_Chatbots]
+tags: [AIML]
 ---
 
 # Test Mathjax
