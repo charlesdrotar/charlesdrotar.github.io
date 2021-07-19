@@ -203,7 +203,7 @@ timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:categories/:year-:month-:day-:title:output_ext/
-paginate: 10
+paginate: 10 # Update this to larger than the total count of all posts regardless of category
 
 kramdown:
   input: GFM
