@@ -15,6 +15,7 @@ author: Charles Drotar
 
 navbar-links:
   About Me: "aboutme"
+  Unity: "Unity"
   Coursework:
     - CSEP590 - Enterprise Chatbots: "UW_EnterpriseChatbots"
     - CSEP517 - Natural Language Processing: "UW_NaturalLanguageProcessing"
