@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Who am I?
 subtitle: How I got to where I am today.
 bigimg: /assets/img/bigimg.png
 ---
