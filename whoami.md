@@ -8,7 +8,7 @@ bigimg: /assets/img/bigimg.png
 
 ![Work](assets/img/microsoft.png) Work
 
-I am currently a Senior Software Engineer at **Microsoft** working on an *Azure IoT SaaS solution* for brick-and-mortar stores. Before that I worked for various product teams within Microsoft's Augmented Reality flagship product - the Hololens as a data engineer.
+I am currently a Senior Software Engineer at **Microsoft** working on an *Azure IoT SaaS solution* for brick-and-mortar stores. Before that I worked as a data engineer for various product teams within Microsoft's Augmented Reality flagship product - the Hololens.
 
 Prior to Microsoft, I worked at **Capital One** as a data engineer where I helped automate data science workflows in *AWS* using *Spark, Python, R, Airflow, Ansible*, and various other analytical tools. I won the Chairman and President's award within my first year of being hired based on the impact I had on the Data Science community within Capital One. This is awarded to less than 1% of the engineers each year.
 

@@ -46,27 +46,8 @@ round-avatar: true
 social-network-links:
   email: "drotarcharles@gmail.com"
   github: charlesdrotar
-#  facebook: deanattali
-#  twitter: daattali
-#  patreon: DeanAttali
-#  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
   linkedin: charlesdrotar
-#  xing: yourname
-  stackoverflow: "10851010/charles-drotar" 
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  stackoverflow: "10851010/charles-drotar"
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
