@@ -15,7 +15,7 @@ author: Charles Drotar
 
 navbar-links:
   About Me:
-    - About Me: "aboutme"
+    - Who am I?: "whoami"
     - Resume: "charlesdrotar.github.io/docs/Charles_Drotar_MSFT.pdf"
   Learnings (Blogs):
     - Unity: "Unity"
