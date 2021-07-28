@@ -19,11 +19,7 @@ navbar-links:
     - Resume: "charlesdrotar.github.io/docs/Charles_Drotar_MSFT.pdf"
   Learnings (Blogs):
     - Unity: "Unity"
-    - UW CSEP590 - Enterprise Chatbots: "UW_EnterpriseChatbots"
-    - UW CSEP517 - Natural Language Processing: "UW_NaturalLanguageProcessing"
-    - UW CSEP546 -  Machine Learning: "UW_MachineLearning"
-    - UW CSEP590 -  Incentives in Computer Science (Game Theory): "UW_IncentivesInComputerScience_GameTheory"
-    - UW CSEP527 -  Computational Biology: "UW_ComputationalBiology"
+    - UW: "UW"
   Patents / Publications:
     - <Patent> Fuel Inefficiency Detection: "https://patents.google.com/patent/US20170158203A1/en/"
     - <Publication> Multi-Domain Communcation Network: "https://arc.aiaa.org/doi/abs/10.2514/6.2013-5056"
