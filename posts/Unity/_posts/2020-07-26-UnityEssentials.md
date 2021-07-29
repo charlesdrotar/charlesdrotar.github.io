@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Computational Biology
+title: Unity Essentials Pathway
 subtitle: Course Overview
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 readtime: true
-tags: [UW, Computational_Biology]
+tags: [Unity]
 ---
 
 # Test Mathjax
