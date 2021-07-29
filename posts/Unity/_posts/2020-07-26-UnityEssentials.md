@@ -2,9 +2,9 @@
 layout: post
 title: Unity Essentials Pathway
 subtitle: Course Overview
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/unity.png
+thumbnail-img: /assets/img/unity.png
+share-img: /assets/img/unity.png
 readtime: true
 tags: [Unity]
 ---
