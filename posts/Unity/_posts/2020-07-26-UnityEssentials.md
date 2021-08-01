@@ -15,9 +15,9 @@ Unity breaks its training regiment into pathways. Currently there are 2 pathways
 
 This blog covers the Unity Essentials Pathway. It is broken down into 3 Missions and is primarily focused for new users to Unity:
 
-1. - [x] Foundations: Get Started with Unity
-2. - [ ] Foundations: Explore Unity
-3. - [ ] Foundations: Learn Unity
+- [x] Foundations: Get Started with Unity
+- [ ] Foundations: Explore Unity
+- [ ] Foundations: Learn Unity
 
     
 ## Missions
