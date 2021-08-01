@@ -32,9 +32,9 @@ What I found most interesting during this process was how focused the learning w
 
 It was very heavy in motivational videos from current Unity users. I found it to be a very empathic approach to the learner. Overall I found this mission to be the exact amount of complexity I needed to feel encouraged and challenged to continue.
 
-![UnityEditor](assets/img/MyFirstFPSGame.png)
+<img src="assets/img/MyFirstFPSGame.png" class="img-responsive" alt=""> </div>
 
-![UnityEditor-GameMode](assets/img/MyFirstFPSGame_GameMode.png)
+<img src="assets/img/MyFirstFPSGame_GameMode.png" class="img-responsive" alt=""> </div>
 
 ### Foundations: Explore Unity
 
