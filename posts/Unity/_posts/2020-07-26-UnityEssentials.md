@@ -2,9 +2,9 @@
 layout: post
 title: Unity Essentials Pathway
 subtitle: Course Overview
-cover-img: /assets/img/Unity/unity-2x1.jpg
-thumbnail-img: /assets/img/Unity/unity.png
-share-img: /assets/img/Unity/unity-2x1.jpg
+cover-img: /assets/img/unity-2x1.jpg
+thumbnail-img: /assets/img/unity.png
+share-img: /assets/img/unity-2x1.jpg
 readtime: true
 tags: [Unity]
 ---
@@ -15,9 +15,9 @@ Unity breaks its training regiment into pathways. Currently there are 2 pathways
 
 This blog covers the Unity Essentials Pathway. It is broken down into 3 Missions and is primarily focused for new users to Unity:
 
-- [x] Foundations: Get Started with Unity
-- [ ] Foundations: Explore Unity
-- [ ] Foundations: Learn Unity
+1. [x] Foundations: Get Started with Unity
+2. [ ] Foundations: Explore Unity
+3. [ ] Foundations: Learn Unity
 
     
 ## Missions
@@ -32,9 +32,9 @@ What I found most interesting during this process was how focused the learning w
 
 It was very heavy in motivational videos from current Unity users. I found it to be a very empathic approach to the learner. Overall I found this mission to be the exact amount of complexity I needed to feel encouraged and challenged to continue.
 
-![Unity Editor](assets/img/Unity/MyFirstFPSGame.png)
+![UnityEditor](assets/img/MyFirstFPSGame.png)
 
-![Unity Editor - GameMode](assets/img/Unity/MyFirstFPSGame_GameMode.png)
+![UnityEditor-GameMode](assets/img/MyFirstFPSGame_GameMode.png)
 
 ### Foundations: Explore Unity
 
