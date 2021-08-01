@@ -2,9 +2,9 @@
 layout: post
 title: Unity Essentials Pathway
 subtitle: Course Overview
-cover-img: /assets/img/unity-2x1.jpg
-thumbnail-img: /assets/img/unity.png
-share-img: /assets/img/unity-2x1.jpg
+cover-img: /assets/img/Unity/unity-2x1.jpg
+thumbnail-img: /assets/img/Unity/unity.png
+share-img: /assets/img/Unity/unity-2x1.jpg
 readtime: true
 tags: [Unity]
 ---
@@ -32,9 +32,11 @@ What I found most interesting during this process was how focused the learning w
 
 It was very heavy in motivational videos from current Unity users. I found it to be a very empathic approach to the learner. Overall I found this mission to be the exact amount of complexity I needed to feel encouraged and challenged to continue.
 
-<img src="assets/img/MyFirstFPSGame.png" class="img-responsive" alt="Unity Editor">
+Untiy IDE:
+![UnityEditor](../../../assets/img/Unity/MyFirstFPSGame.png)
 
-<img src="assets/img/MyFirstFPSGame_GameMode.png" class="img-responsive" alt="Live Game Camerag">
+In Game mode:
+![UnityEditor-GameMode](../../../assets/img/Unity/MyFirstFPSGame_GameMode.png)
 
 ### Foundations: Explore Unity
 
