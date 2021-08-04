@@ -56,10 +56,132 @@ encouraged and challenged to continue.
 ### Foundations: Explore Unity
 
 #### 3D
-*In Progress*
+
+This unit was particularly interesting. 
+In this unit you program a game called "The Floor is Lava".
+Just like the children's game, where you lose if you touch the lava.
+
+It involved creating a scene from scratch with the objective of building a 
+scene where the ball will hit some portions of the scene before hitting the lava.
+During this process physics is added to the ball to enable bouncing and various skins were added
+to different objects to change the albedo of the 3D objects. 
+
+I manipulated Rotation and Position on all objects to see how the 
+bounciness of the ball plays off the other objects in the scene. the idea is to build a complex course
+in a [Rube Goldberg-esque](https://en.wikipedia.org/wiki/Rube_Goldberg_machine) manner.
+
+![FoundationsOf3D](../../../assets/img/Unity/FoundationsOf3D.png)
+
 
 #### Scripting
-*In Progress*
+
+In this module I built upon the previous project, "TheFloorIsLava".
+The major distinction is that I performed all changes within C# scripts
+bound to specific objects. 
+
+```
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class HelloWorld : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+
+    }
+}
+```
+It was great to learn how to use the logger, 
+and change position, rotation, and scale of objects 
+with only 2 lines of code changes for each action.
+It was as simple as (1) instantiation of public variable, 
+(2) then update the object property on each new frame.
+
+Enlarge ball on each frame:
+```
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class BallTransform : MonoBehaviour
+{
+    public Vector3 scaleChange;
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        transform.localScale += scaleChange;
+    }
+}
+```
+
+Move top plane on each frame:
+```
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class PlanePositionChange : MonoBehaviour
+{
+    public Vector3 positionChange;
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        transform.position += positionChange;
+    }
+}
+```
+
+Rotate bottom plane by changing its angle on each frame:
+```
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class BottomPlaneRotationChange : MonoBehaviour
+{
+    public Vector3 rotateChange;
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        transform.Rotate(rotateChange);
+    }
+}
+```
+
+Comparing the image below with the image from the previous section,
+and you can notice that the ball's size and position have changed.
+Additionally, the platforms have changed their angles and positions.
+The change to the scale of the ball is a little more subtle, 
+but it has enlarged.
+
+![FoundationsOfProgramming](../../../assets/img/Unity/FoundationsOfProgramming.png)
+
 
 #### Audio
 *In Progress*
