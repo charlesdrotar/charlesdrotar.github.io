@@ -35,6 +35,22 @@ I Also have a BS in EE from the **University of North Texas**.
 
 ## Personal History
 
-Issaquah, Washington is home. My work and studies have taken me from the Dallas Fort-Worth Metroplex to the state of Washington. My travels have taken me to Kosovo, Albania, Turkey, Japan, Australia, and the Dominican Republic.
+Issaquah, Washington is home. 
+My work and studies have taken me from the Dallas Fort-Worth Metroplex 
+to the state of Washington. My travels have taken me to Kosovo, Albania, 
+Turkey, Japan, Australia, and the Dominican Republic.
 
-Since coming to Washington I have started training for half-marathons. I completed my first half marathon (virtually) on April 28, 2021. I intend to do the Seattle Half-Marathon in November 28, 2021.
+Since coming to Washington I have started training for half marathons. 
+I have completed one half-marathon so far, and I am starting my journey of
+2 half-marathons a year. 
+I intend to do the Seattle Half Marathon in November 28, 2021.
+
+[comment]: <> (TODO: Add pictures for each medal)
+
+| Race      | Distance   | Date | Medal |
+| ----------- | ----------- | ----------- |----------- |
+| *(2021 Amica Insurance Seattle Marathon)*   | *(Half Marathon)*        | *(November 28th 2021)*       |        |
+| 2020 Amica Insurance Seattle Marathon      | Half Marathon       | November 29th 2020       |        |
+| 2020 Seattle Marathon Summer 5K/10K    | 10k        | August 22nd 2020       |        |
+
+
