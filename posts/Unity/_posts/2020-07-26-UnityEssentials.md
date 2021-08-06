@@ -79,7 +79,7 @@ In this module I built upon the previous project, "TheFloorIsLava".
 The major distinction is that I performed all changes within C# scripts
 bound to specific objects. 
 
-```
+```csharp
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -99,6 +99,7 @@ public class HelloWorld : MonoBehaviour
     }
 }
 ```
+
 It was great to learn how to use the logger, 
 and change position, rotation, and scale of objects 
 with only 2 lines of code changes for each action.
@@ -106,7 +107,8 @@ It was as simple as (1) instantiation of public variable,
 (2) then update the object property on each new frame.
 
 Enlarge ball on each frame:
-```
+
+```csharp
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -129,7 +131,8 @@ public class BallTransform : MonoBehaviour
 ```
 
 Move top plane on each frame:
-```
+
+```csharp
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -152,7 +155,8 @@ public class PlanePositionChange : MonoBehaviour
 ```
 
 Rotate bottom plane by changing its angle on each frame:
-```
+
+```csharp
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
