@@ -41,9 +41,10 @@ to the state of Washington. My travels have taken me to Kosovo, Albania,
 Turkey, Japan, Australia, and the Dominican Republic.
 
 Since coming to Washington I have started training for half marathons. 
-I have completed one half-marathon so far, and I am starting my journey of
-2 half-marathons a year. 
-I intend to do the Seattle Half Marathon in November 28, 2021.
+I have completed one half-marathon so far and will start 2022
+with a goal of 2 half marathons a year.
+
+I intend to do the Seattle Half Marathon on November 28, 2021.
 
 [comment]: <> (TODO: Add pictures for each medal)
 
