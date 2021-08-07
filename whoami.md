@@ -51,7 +51,7 @@ I intend to do the Seattle Half Marathon on November 28, 2021.
 | Race      | Distance   | Date | Medal |
 | ----------- | ----------- | ----------- |----------- |
 | *(2021 Amica Insurance Seattle Marathon)*   | *(Half Marathon)*        | *(November 28th 2021)*       |        |
-| 2020 Amica Insurance Seattle Marathon      | Half Marathon       | November 29th 2020       |        |
-| 2020 Seattle Marathon Summer 5K/10K    | 10k        | August 22nd 2020       |        |
+| 2020 Amica Insurance Seattle Marathon      | Half Marathon       | November 29th 2020       | ![2020_Seattle_Winter_HalfMarathon](assets/img/Races/2020_Seattle_Winter_HalfMarathon.jpg)       |
+| 2020 Seattle Marathon Summer 5K/10K    | 10k        | August 22nd 2020       |  ![2020_Seattle_Winter_HalfMarathon](assets/img/Races/2020_Seattle_Summer_10k.jpg)      |
 
 
