@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Game Theory
+title: Natural Language Processing
 subtitle: Course Overview
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/university_of_washington.png
 share-img: /assets/img/path.jpg
 readtime: true
-tags: [UW, Game_Theory]
+tags: [UW, Natural_Language_Processing, NLP]
 ---
+
+[comment]: <> (TODO: Add content)
 
 # Test Mathjax
 

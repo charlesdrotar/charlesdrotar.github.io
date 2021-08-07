@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Machine Learning
+title: Game Theory
 subtitle: Course Overview
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/university_of_washington.png
 share-img: /assets/img/path.jpg
 readtime: true
-tags: [UW, Machine_Learning]
+tags: [UW, Game_Theory]
 ---
+
+[comment]: <> (TODO: Add content)
 
 # Test Mathjax
 

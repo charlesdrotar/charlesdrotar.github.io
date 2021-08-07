@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Enterprise Chatbots
+title: Computational Biology
 subtitle: Course Overview
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/university_of_washington.png
 share-img: /assets/img/path.jpg
 readtime: true
-tags: [UW, Enterprise_Chatbots, NLP]
+tags: [UW, Computational_Biology]
 ---
+
+[comment]: <> (TODO: Add content)
 
 # Test Mathjax
 

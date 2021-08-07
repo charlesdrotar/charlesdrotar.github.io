@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Computational Biology
+title: Machine Learning
 subtitle: Course Overview
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/university_of_washington.png
 share-img: /assets/img/path.jpg
 readtime: true
-tags: [UW, Computational_Biology]
+tags: [UW, Machine_Learning]
 ---
+
+[comment]: <> (TODO: Add content)
 
 # Test Mathjax
 

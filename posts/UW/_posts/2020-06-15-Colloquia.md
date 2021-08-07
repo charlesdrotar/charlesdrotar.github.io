@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Natural Language Processing
-subtitle: Course Overview
+title: Colloquia
+subtitle: Reports
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/university_of_washington.png
 share-img: /assets/img/path.jpg
 readtime: true
-tags: [UW, Natural_Language_Processing, NLP]
+tags: [UW, Colloquia]
 ---
+
+[comment]: <> (TODO: Add content)
 
 # Test Mathjax
 
