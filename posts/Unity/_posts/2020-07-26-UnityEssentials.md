@@ -188,7 +188,45 @@ but it has enlarged.
 
 
 #### Audio
-*In Progress*
+
+This module was quite a bit of fun. In it I learned about the concept of 3D audio
+vs. essentially background audio. The concept is simple 3D audio changes intensity relative to 
+the position of the object. You can configure this according to this panel:
+
+![FoundationsOfRealTimeAudio](../../../assets/img/Unity/FoundationsOfRealTimeAudio.png)
+
+These configurations were attached to the pink zombie outside the house. 
+Inside the house I added ambient music that is not 3D and a 
+3D audio-enabled boiling pot on the stove. 
+The pink zombie also moves using C# scripting so essentially
+with the envelope of 3D audio enabled with a logarithmic fade from 
+0.5 to 2 we hear the doppler effect. The script was a simple one that borrowed
+from the previous lesson where I update an object's position every frame:
+
+```csharp
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class MovingAudio : MonoBehaviour
+{
+    public Vector3 positionChange;
+    public Vector3 rotationChange;
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        transform.position += positionChange;
+    }
+}
+```
+
+Pretty simple, yet rewarding exercise.
 
 #### 2D
 *In Progress*
