@@ -2,7 +2,7 @@
 layout: post
 title: Unity Essentials Pathway
 subtitle: Course Overview
-cover-img: /assets/img/Unity/unity-2x1.jpg
+cover-img: /assets/img/Unity/UnityEssentials.png
 thumbnail-img: /assets/img/Unity/unity.png
 share-img: /assets/img/Unity/unity-2x1.jpg
 readtime: true
@@ -229,7 +229,31 @@ public class MovingAudio : MonoBehaviour
 Pretty simple, yet rewarding exercise.
 
 #### 2D
-*In Progress*
+
+This lesson was especially fun. I learned how to create a simple Pachinko game.
+Most of the prior lessons were all applicable. Even within a 2D world
+the Z axis is still pertinent. It helps to determine the layering of 
+2D assets in the world.
+
+Here is a screenshot of my Pizza Pachinko project in action:
+
+![PizzaPachinko](../../../assets/img/Unity/PizzaPachinko.png)
+
+Can you guess which garbage can the pizza will end up in?
 
 ### Foundations: Learn Unity
-*In Progress*
+
+This lesson was mostly about how to create a sustainable
+learning plan and how to scope and break down work so that 
+you maintain momentum and do not get discouraged.
+
+Despite doing this in my day-to-day, it is nice being reminded 
+that even in a hobbyist mentality it is good to maintain focus
+and do not get discouraged, and at all times embrace the tiny wins
+
+# Closing Thoughts
+
+I found this pathway fundamental in establishing a structured
+level of comfortability and familiarity with Unity. I now 
+know the how and what of what I want to do next. 
+
