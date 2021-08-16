@@ -19,9 +19,9 @@ Along the way you learn scripting, creating 2D and 3D worlds and how to apply au
 
 This blog covers the Unity Essentials Pathway. It is broken down into 3 Missions and is primarily focused for new users to Unity:
 
-1. [x] **Foundations: Get Started with Unity** - Learn the basic controls and vocabulary while publishing a forked version of a ready-made game. 
-2. [ ] **Foundations: Explore Unity** - Learn the basics of 2D and 3D realtime scene generation, scripting objects, and adding audio.
-3. [ ] **Foundations: Learn Unity** - A mission focused on how to pursue the next steps of the learning process in the Unity journey.
+1. **Foundations: Get Started with Unity** - Learn the basic controls and vocabulary while publishing a forked version of a ready-made game. 
+2. **Foundations: Explore Unity** - Learn the basics of 2D and 3D realtime scene generation, scripting objects, and adding audio.
+3. **Foundations: Learn Unity** - A mission focused on how to pursue the next steps of the learning process in the Unity journey.
     
 ## Missions
 
