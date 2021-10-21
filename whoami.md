@@ -21,15 +21,24 @@ It was just prior to this where my career started as an algorithms and software 
 I am currently pursuing an MS in CS at the **University of Washington** with a 3.82 GPA, and am expected to graduate end of year 2022.
 
 ***Courses Taken:***
+
+<!--
 - [Enterprise Chatbots](https://www.charlesdrotar.com/posts/uw/EnterpriseChatbots.html/)
 - [Natural Language Processing](https://www.charlesdrotar.com/posts/uw/NaturalLanguageProcessing.html/)
 - [Machine Learning](https://www.charlesdrotar.com/posts/uw/MachineLearning.html/)
 - [Game Theory](https://www.charlesdrotar.com/posts/uw/GameTheory.html/)
 - [Computational Biology](https://www.charlesdrotar.com/posts/uw/ComputationalBiology.html/)
 - [Colloquia](https://www.charlesdrotar.com/posts/uw/Colloquia.html/)
+-->
+
+- Enterprise Chatbots
+- Natural Language Processing
+- Machine Learning
+- Game Theory
+- Computational Biology
 
 ***Course (In Progress):***
-- Computer Vision
+- Security Engineering
 
 I Also have a BS in EE from the **University of North Texas**.
 
