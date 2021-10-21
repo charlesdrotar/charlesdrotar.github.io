@@ -16,7 +16,8 @@ author: Charles Drotar
 navbar-links:
   About Me:
     - Who am I?: "whoami"
-    - Resume: "charlesdrotar.github.io/docs/Charles_Drotar_MSFT.pdf"
+    - Resume: "https://docs.google.com/document/d/1rvzX_F2gr69x80Sn4PnT88YgIp1NQ8HYyOgxdidv44k/edit?usp=sharing"
+    # - Resume: "charlesdrotar.github.io/docs/Charles_Drotar_MSFT.pdf"
   Learnings (Blogs):
     - Kaggle: "Kaggle"
     - Unity: "Unity"
